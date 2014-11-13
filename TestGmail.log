@@ -1,0 +1,70 @@
+2014-11-11 17:25:55.963 [PoolService-4] INFO  Gmail - open google.com
+2014-11-11 17:26:00.651 [PoolService-5] INFO  Gmail - open google.com
+2014-11-11 17:26:05.926 [PoolService-3] INFO  Gmail - open google.com
+2014-11-11 17:26:10.797 [PoolService-6] INFO  Gmail - open google.com
+2014-11-11 17:26:17.223 [PoolService-4] INFO  Gmail - open login page
+2014-11-11 17:26:19.292 [PoolService-4] INFO  Gmail - login user User{email='sdrivertestmail2@gmail.com', password='testtest123'}
+2014-11-11 17:26:21.829 [PoolService-5] INFO  Gmail - open login page
+2014-11-11 17:26:22.863 [PoolService-4] INFO  Gmail - open gmail inbox
+2014-11-11 17:26:24.043 [PoolService-5] INFO  Gmail - login user User{email='sdrivertestmail3@gmail.com', password='testtest123'}
+2014-11-11 17:26:24.461 [PoolService-4] INFO  Gmail - find not important message
+2014-11-11 17:26:26.232 [PoolService-4] INFO  Gmail - click teach gmail
+2014-11-11 17:26:27.151 [PoolService-3] INFO  Gmail - open login page
+2014-11-11 17:26:28.107 [PoolService-5] INFO  Gmail - open gmail inbox
+2014-11-11 17:26:30.087 [PoolService-3] INFO  Gmail - login user User{email='sdrivertestmail1@gmail.com', password='testtest123'}
+2014-11-11 17:26:32.181 [PoolService-6] INFO  Gmail - open login page
+2014-11-11 17:26:34.409 [PoolService-6] INFO  Gmail - login user User{email='kolatest1@gmail.com', password='kolakola'}
+2014-11-11 17:26:34.759 [PoolService-3] INFO  Gmail - open gmail inbox
+2014-11-11 17:26:38.972 [PoolService-6] INFO  Gmail - open gmail inbox
+2014-11-11 17:26:39.354 [PoolService-6] INFO  Gmail - find not important message
+2014-11-11 17:26:39.998 [PoolService-6] INFO  Gmail - click teach gmail
+2014-11-11 17:26:47.045 [PoolService-4] INFO  Gmail - open important folder
+2014-11-11 17:26:47.382 [PoolService-4] INFO  Gmail - message is in important list
+2014-11-11 17:26:47.647 [PoolService-4] INFO  Gmail - teach gmail not important
+2014-11-11 17:26:48.850 [PoolService-5] INFO  Gmail - find not important message
+2014-11-11 17:26:49.184 [PoolService-5] INFO  Gmail - click teach gmail
+2014-11-11 17:27:02.051 [PoolService-6] INFO  Gmail - open important folder
+2014-11-11 17:27:02.429 [PoolService-6] INFO  Gmail - message is in important list
+2014-11-11 17:27:02.683 [PoolService-6] INFO  Gmail - teach gmail not important
+2014-11-11 17:27:07.665 [PoolService-4] INFO  Gmail - message disappears from list
+2014-11-11 17:27:09.142 [PoolService-1] INFO  Gmail - open google.com
+2014-11-11 17:27:09.846 [PoolService-5] INFO  Gmail - open important folder
+2014-11-11 17:27:10.515 [PoolService-5] INFO  Gmail - message is in important list
+2014-11-11 17:27:10.924 [PoolService-5] INFO  Gmail - teach gmail not important
+2014-11-11 17:27:11.005 [PoolService-5] INFO  Gmail - message disappears from list
+2014-11-11 17:27:11.697 [PoolService-1] INFO  Gmail - open login page
+2014-11-11 17:27:12.294 [PoolService-2] INFO  Gmail - open google.com
+2014-11-11 17:27:13.158 [PoolService-1] INFO  Gmail - login user User{email='dzzyurak@gmail.com', password='Qwe123Qwe123'}
+2014-11-11 17:27:14.371 [PoolService-2] INFO  Gmail - open login page
+2014-11-11 17:27:16.241 [PoolService-2] INFO  Gmail - login user User{email='mikus.misha@gmail.com', password='TestPassword1111'}
+2014-11-11 17:27:17.102 [PoolService-1] INFO  Gmail - open gmail inbox
+2014-11-11 17:27:18.236 [PoolService-3] INFO  Gmail - find not important message
+2014-11-11 17:27:19.085 [PoolService-3] INFO  Gmail - click teach gmail
+2014-11-11 17:27:22.683 [PoolService-2] INFO  Gmail - open gmail inbox
+2014-11-11 17:27:22.695 [PoolService-6] INFO  Gmail - message disappears from list
+2014-11-11 17:27:24.696 [PoolService-0] INFO  Gmail - open google.com
+2014-11-11 17:27:26.644 [PoolService-0] INFO  Gmail - open login page
+2014-11-11 17:27:28.372 [PoolService-0] INFO  Gmail - login user User{email='sdrivertestmail@gmail.com', password='testtest123'}
+2014-11-11 17:27:34.217 [PoolService-0] INFO  Gmail - open gmail inbox
+2014-11-11 17:27:34.802 [PoolService-0] INFO  Gmail - find not important message
+2014-11-11 17:27:37.128 [PoolService-0] INFO  Gmail - click teach gmail
+2014-11-11 17:27:40.168 [PoolService-3] INFO  Gmail - open important folder
+2014-11-11 17:27:40.555 [PoolService-1] INFO  Gmail - find not important message
+2014-11-11 17:27:41.129 [PoolService-1] INFO  Gmail - click teach gmail
+2014-11-11 17:27:41.167 [PoolService-3] INFO  Gmail - message is in important list
+2014-11-11 17:27:41.587 [PoolService-3] INFO  Gmail - teach gmail not important
+2014-11-11 17:27:41.787 [PoolService-3] INFO  Gmail - message disappears from list
+2014-11-11 17:27:53.223 [PoolService-2] INFO  Gmail - find not important message
+2014-11-11 17:27:57.957 [PoolService-0] INFO  Gmail - open important folder
+2014-11-11 17:27:58.143 [PoolService-2] INFO  Gmail - click teach gmail
+2014-11-11 17:27:58.416 [PoolService-0] INFO  Gmail - message is in important list
+2014-11-11 17:27:58.778 [PoolService-0] INFO  Gmail - teach gmail not important
+2014-11-11 17:27:58.868 [PoolService-0] INFO  Gmail - message disappears from list
+2014-11-11 17:28:01.740 [PoolService-1] INFO  Gmail - open important folder
+2014-11-11 17:28:02.180 [PoolService-1] INFO  Gmail - message is in important list
+2014-11-11 17:28:02.527 [PoolService-1] INFO  Gmail - teach gmail not important
+2014-11-11 17:28:02.635 [PoolService-1] INFO  Gmail - message disappears from list
+2014-11-11 17:28:23.684 [PoolService-2] INFO  Gmail - open important folder
+2014-11-11 17:28:27.344 [PoolService-2] INFO  Gmail - message is in important list
+2014-11-11 17:28:30.398 [PoolService-2] INFO  Gmail - teach gmail not important
+2014-11-11 17:28:33.336 [PoolService-2] INFO  Gmail - message disappears from list
