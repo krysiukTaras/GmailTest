@@ -57,7 +57,7 @@ public class TestGmail {
         msg = gmail.findNotImportantMessage();
         assertNotNull(msg, "don't find not important message");
 
-        assertTrue(gmail.teachGmail(msg),"don't teacWebDriverFactoryInternal.javah" );
+        assertTrue(gmail.teachGmail(msg),"don't teach" );
 
         assertTrue(gmail.openImportant(), "important folder not open");
 
