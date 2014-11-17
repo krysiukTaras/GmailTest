@@ -22,7 +22,6 @@ public class LocatingElementListHandler implements InvocationHandler {
         this.wrapType = wrapType;
     }
 
-    @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
         List<BaseElement> elementList = new ArrayList<BaseElement>();
         for (WebElement e : locator.findElements()) {

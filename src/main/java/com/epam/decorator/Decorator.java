@@ -21,7 +21,7 @@ public class Decorator implements FieldDecorator{
         factory = new DefaultElementLocatorFactory(context);
     }
 
-    @Override
+
     public Object decorate(ClassLoader loader, Field field) {
         if(!(isWrapElement(field)||isListWrapElements(field))){
             return null;
