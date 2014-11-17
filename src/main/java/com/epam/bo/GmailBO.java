@@ -12,10 +12,6 @@ import org.openqa.selenium.WebDriver;
 import java.util.List;
 
 
-//add in iss53 branch 
-//second iss53 branch
-//iss
-
 public class GmailBO {
 
     private static final Logger LOG = LogManager.getLogger("Gmail");
